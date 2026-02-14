@@ -18,9 +18,9 @@ const answers_no = {
     ],
     french: [
         "Non",
-        "Tu es sûr ?",
-        "Tu es vraiment sûr ??",
-        "Tu es vraiment vraiment sûr ???",
+        "Tu es sûre ?",
+        "Tu es vraiment sûre ??",
+        "Tu es vraiment vraiment sûre ???",
         "Réfléchis encore?",
         "Tu ne crois pas aux deuxièmes chances ?",
         "Pourquoi tu es si froid?",
